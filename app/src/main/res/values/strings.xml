@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Modern Home</string>
+    <string name="home_message">I wish you a happy life!</string>
+    <string name="hello">Hello</string>
+    <string name="menu_title">My room</string>
+    <string name="living_room">Living room</string>
+    <string name="bed_room">Bedroom</string>
+    <string name="kitchen">Kitchen</string>
+    <string name="bath_room">Bathroom</string>
+</resources>
